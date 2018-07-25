@@ -5,7 +5,7 @@
 install.packages("xlsx")
 library('ggplot2')
 library('xlsx') 
-DF <- read.xlsx("C:/Users/Manju/Documents/RScripts/Datasets/Indian_Startups_Funding.xlsx", 3)
+DF <- read.xlsx("Indian_Startups_Funding.xlsx")
 head(DF)
 #Select only relevant columns to understand the funding across cities and industries
 filtrd_data <- DF[,c(2,4,6,8,9)] #selects only columns 2, 4, 6, 8, and 9

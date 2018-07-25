@@ -1,4 +1,4 @@
-#Read Startup Funcing data into a data frame
+#Read Startup Funding data into a data frame
 #Downloaded and created the 'Indian_Startups_Funding.xlsx' file from data available at 
 #http://trak.in/india-startup-funding-investment-2015
 #************************************************************************************************
